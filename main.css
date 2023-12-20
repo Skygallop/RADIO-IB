@@ -40,6 +40,12 @@
     display: flex;
     justify-content: end;
 }
+/* SCALING WRONG WITH TOP_RW */
+.top_rw {
+    display: flex;
+    justify-content: space-between;
+    height: 18vh
+}
 
 .row_st {
     display: flex;
