@@ -6,7 +6,10 @@
 .placeholder {
     width: 25%;
     height: auto;
-    
+}
+
+.placeholder:hover {
+    zoom: 150%;
 }
 
 .two_cr {
